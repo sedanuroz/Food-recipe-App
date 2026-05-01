@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "BÖREK",
+    "ingredient": "500 g yufka, 300 g beyaz peynir, 1 adet soğan, 1 çay bardağı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "250 kcal"
+      }
+    ],
+    "recipe": "Soğanı doğrayıp, peynirle karıştırın. Yufkayı serip iç harcı ekleyip sarın. Yağlayıp fırında pişirin.",
+    "image_url": "assets/baslangicler/hamurİsleri/hamurİsleri.img/BÖREK.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "PİZZA",
+    "ingredient": "500 g un, 200 ml su, 1 paket kuru maya, 200 g mozarella peyniri, 100 g domates sosu, 100 g sucuk.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "280 kcal"
+      }
+    ],
+    "recipe": "Un, su ve mayayı karıştırıp hamur yoğurun. Hamuru açıp sos ve malzemeleri ekleyip fırında pişirin.",
+    "image_url": "assets/baslangicler/hamurİsleri/hamurİsleri.img/PİZZA.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "SIMİT",
+    "ingredient": "500 g un, 1 paket yaş maya, 1 su bardağı ılık su, 1 tatlı kaşığı tuz, 2 yemek kaşığı pekmez, susam.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "300 kcal"
+      }
+    ],
+    "recipe": "Un, maya, su, tuzla hamur yoğurun. Hamuru şekillendirip, pekmezli suya batırın ve susama bulayın. Fırında pişirin.",
+    "image_url": "assets/baslangicler/hamurİsleri/hamurİsleri.img/SIMİT.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "KRUVASAN",
+    "ingredient": "250 g un, 50 g tereyağı, 100 ml süt, 1 paket kuru maya, tuz, 1 yemek kaşığı şeker.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "350 kcal"
+      }
+    ],
+    "recipe": "Un, tereyağı, süt, maya, tuz ve şekeri karıştırıp hamur yoğurun. Hamuru dinlendirin, açıp katlayarak pişirin.",
+    "image_url": "assets/baslangicler/hamurİsleri/hamurİsleri.img/KRUVASAN.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "BUNDEK",
+    "ingredient": "250 g un, 1 paket kabartma tozu, 1 çay bardağı süt, 1 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "220 kcal"
+      }
+    ],
+    "recipe": "Tüm malzemeleri karıştırıp hamur yoğurun. Hamuru açıp, yağlı kağıda serin ve fırında pişirin.",
+    "image_url": "assets/baslangicler/hamurİsleri/hamurİsleri.img/BUNDEK.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "KABAKLI BÖREK",
+    "ingredient": "500 g yufka, 300 g kabak, 1 adet soğan, 1 çay bardağı sıvı yağ, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "Kabığı rendelenmiş kabakları, doğranmış soğanla karıştırın. Yufkayı serip iç harcı ekleyip sarın, yağlayıp pişirin.",
+    "image_url": "assets/baslangicler/hamurİsleri/hamurİsleri.img/KABAKLI BÖREK.jpg"
+
+  }
+]

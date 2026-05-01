@@ -1,0 +1,251 @@
+[
+  {
+    "id": 1,
+    "name": "LEVREK",
+    "ingredient": "1 adet levrek, 1 limon, 2 diş sarımsak, tuz, karabiber, zeytinyağı.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Levreği temizleyip, tuz ve baharatlarla tatlandırın. Limonu sıkın ve üzerine rendeleyin. Zeytinyağında kızartın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/LEVREK.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "ÇIPURA",
+    "ingredient": "1 adet çipura, 1 limon, 2 diş sarımsak, tuz, karabiber, zeytinyağı.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "110 kcal"
+      }
+    ],
+    "recipe": "Çipura balığını tuz ve baharatlarla tatlandırın. Limonu dilimleyip üzerine yerleştirin. Zeytinyağında pişirin.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/ÇIPURA.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "KALAMAR",
+    "ingredient": "500 g kalamar, 1 limon, 1 çay bardağı un, tuz, karabiber, sıvı yağ.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Kalamarları dilimleyip, tuz, karabiber ve unla karıştırın. Sıvı yağda kızartın, limonla servis yapın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/KALAMAR.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "AHTAPOT",
+    "ingredient": "1 adet ahtapot, 2 diş sarımsak, 1 limon, zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "90 kcal"
+      }
+    ],
+    "recipe": "Ahtapotu haşlayıp, doğrayın. Zeytinyağında sarımsakları kavurun, üzerine ahtapotları ekleyin. Limon ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/AHTAPOT.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "MIDYE",
+    "ingredient": "500 g midye, 2 diş sarımsak, 1 limon, tuz, karabiber, sıvı yağ.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "100 kcal"
+      }
+    ],
+    "recipe": "Midyeleri temizleyin ve tuzlu suda haşlayın. Sıvı yağda sarımsakları kavurun, midyeleri ekleyin ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/MIDYE.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "İSTAKOZ",
+    "ingredient": "1 adet istakoz, 2 diş sarımsak, zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "80 kcal"
+      }
+    ],
+    "recipe": "İstakozu haşlayıp, zeytinyağında sarımsaklarla kavurun. Tuz ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/İSTAKOZ.jpg"
+  },
+  {
+    "id": 7,
+    "name": "LEVREK",
+    "ingredient": "1 adet levrek, 1 limon, 2 diş sarımsak, tuz, karabiber, zeytinyağı.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Levreği temizleyip, tuz ve baharatlarla tatlandırın. Limonu sıkın ve üzerine rendeleyin. Zeytinyağında kızartın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/LEVREK.jpg"
+  },
+  {
+    "id": 8,
+    "name": "ÇIPURA",
+    "ingredient": "1 adet çipura, 1 limon, 2 diş sarımsak, tuz, karabiber, zeytinyağı.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "110 kcal"
+      }
+    ],
+    "recipe": "Çipura balığını tuz ve baharatlarla tatlandırın. Limonu dilimleyip üzerine yerleştirin. Zeytinyağında pişirin.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/ÇIPURA.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "KALAMAR",
+    "ingredient": "500 g kalamar, 1 limon, 1 çay bardağı un, tuz, karabiber, sıvı yağ.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Kalamarları dilimleyip, tuz, karabiber ve unla karıştırın. Sıvı yağda kızartın, limonla servis yapın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/KALAMAR.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "AHTAPOT",
+    "ingredient": "1 adet ahtapot, 2 diş sarımsak, 1 limon, zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "90 kcal"
+      }
+    ],
+    "recipe": "Ahtapotu haşlayıp, doğrayın. Zeytinyağında sarımsakları kavurun, üzerine ahtapotları ekleyin. Limon ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/AHTAPOT.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "MIDYE",
+    "ingredient": "500 g midye, 2 diş sarımsak, 1 limon, tuz, karabiber, sıvı yağ.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "100 kcal"
+      }
+    ],
+    "recipe": "Midyeleri temizleyin ve tuzlu suda haşlayın. Sıvı yağda sarımsakları kavurun, midyeleri ekleyin ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/MIDYE.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "İSTAKOZ",
+    "ingredient": "1 adet istakoz, 2 diş sarımsak, zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "80 kcal"
+      }
+    ],
+    "recipe": "İstakozu haşlayıp, zeytinyağında sarımsaklarla kavurun. Tuz ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/İSTAKOZ.jpg"
+
+  },
+  {
+    "id": 13,
+    "name": "LEVREK",
+    "ingredient": "1 adet levrek, 1 limon, 2 diş sarımsak, tuz, karabiber, zeytinyağı.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Levreği temizleyip, tuz ve baharatlarla tatlandırın. Limonu sıkın ve üzerine rendeleyin. Zeytinyağında kızartın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/LEVREK.jpg"
+
+  },
+  {
+    "id": 14,
+    "name": "ÇIPURA",
+    "ingredient": "1 adet çipura, 1 limon, 2 diş sarımsak, tuz, karabiber, zeytinyağı.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "110 kcal"
+      }
+    ],
+    "recipe": "Çipura balığını tuz ve baharatlarla tatlandırın. Limonu dilimleyip üzerine yerleştirin. Zeytinyağında pişirin.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/ÇIPURA.jpg"
+
+  },
+  {
+    "id": 15,
+    "name": "KALAMAR",
+    "ingredient": "500 g kalamar, 1 limon, 1 çay bardağı un, tuz, karabiber, sıvı yağ.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Kalamarları dilimleyip, tuz, karabiber ve unla karıştırın. Sıvı yağda kızartın, limonla servis yapın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/KALAMAR.jpg"
+
+  },
+  {
+    "id": 16,
+    "name": "AHTAPOT",
+    "ingredient": "1 adet ahtapot, 2 diş sarımsak, 1 limon, zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "90 kcal"
+      }
+    ],
+    "recipe": "Ahtapotu haşlayıp, doğrayın. Zeytinyağında sarımsakları kavurun, üzerine ahtapotları ekleyin. Limon ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/AHTAPOT.jpg"
+
+  },
+  {
+    "id": 17,
+    "name": "MIDYE",
+    "ingredient": "500 g midye, 2 diş sarımsak, 1 limon, tuz, karabiber, sıvı yağ.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "100 kcal"
+      }
+    ],
+    "recipe": "Midyeleri temizleyin ve tuzlu suda haşlayın. Sıvı yağda sarımsakları kavurun, midyeleri ekleyin ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/MIDYE.jpg"
+
+  },
+  {
+    "id": 18,
+    "name": "İSTAKOZ",
+    "ingredient": "1 adet istakoz, 2 diş sarımsak, zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "80 kcal"
+      }
+    ],
+    "recipe": "İstakozu haşlayıp, zeytinyağında sarımsaklarla kavurun. Tuz ve baharatlarla tatlandırın.",
+    "image_url": "assets/baslangicler/denizUrunleri/denizUrunleri.img/İSTAKOZ.jpg"
+  }
+]

@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "DOMATES SOSU",
+    "ingredient": "4 adet domates, 2 diş sarımsak, 2 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "40 kcal"
+      }
+    ],
+    "recipe": "Domatesleri rendeleyin. Zeytinyağında sarımsakları kavurup domates, tuz ve karabiber ekleyerek pişirin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/DOMATES SOSU.jpg"
+  },
+  {
+    "id": 2,
+    "name": "YOĞURTLU DİP",
+    "ingredient": "1 su bardağı yoğurt, 1 diş sarımsak, 1 yemek kaşığı zeytinyağı, tuz, nane.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "60 kcal"
+      }
+    ],
+    "recipe": "Yoğurdu ezilmiş sarımsak, zeytinyağı, tuz ve nane ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/YOĞURTLU DİP.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PESTO SOS",
+    "ingredient": "1 demet fesleğen, 2 diş sarımsak, 1 çay bardağı zeytinyağı, 50 g parmesan peyniri, 50 g çam fıstığı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Fesleğen, sarımsak, çam fıstığı ve zeytinyağını blenderda karıştırın. Parmesan ve tuz ekleyip karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/PESTO SOS.jpg"
+  },
+  {
+    "id": 4,
+    "name": "RANCH SOS",
+    "ingredient": "1 su bardağı mayonez, 1 çay bardağı yoğurt, 1 diş sarımsak, 1 yemek kaşığı dereotu, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Mayonez, yoğurt, ezilmiş sarımsak, ince doğranmış dereotu, tuz ve karabiberi karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/RANCH SOS.jpg"
+  },
+  {
+    "id": 5,
+    "name": "GUACAMOLE",
+    "ingredient": "2 adet avokado, 1 adet limon, 1 adet domates, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Avokadoyu ezin. Limon suyu, doğranmış domates, ezilmiş sarımsak, tuz ve karabiber ekleyip karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/GUACAMOLE.jpg"
+  },
+  {
+    "id": 6,
+    "name": "DOMATES SOSU",
+    "ingredient": "4 adet domates, 2 diş sarımsak, 2 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "40 kcal"
+      }
+    ],
+    "recipe": "Domatesleri rendeleyin. Zeytinyağında sarımsakları kavurup domates, tuz ve karabiber ekleyerek pişirin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/DOMATES SOSU.jpg"
+  },
+  {
+    "id": 7,
+    "name": "YOĞURTLU DİP",
+    "ingredient": "1 su bardağı yoğurt, 1 diş sarımsak, 1 yemek kaşığı zeytinyağı, tuz, nane.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "60 kcal"
+      }
+    ],
+    "recipe": "Yoğurdu ezilmiş sarımsak, zeytinyağı, tuz ve nane ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/YOĞURTLU DİP.jpg"
+  },
+  {
+    "id": 8,
+    "name": "PESTO SOS",
+    "ingredient": "1 demet fesleğen, 2 diş sarımsak, 1 çay bardağı zeytinyağı, 50 g parmesan peyniri, 50 g çam fıstığı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Fesleğen, sarımsak, çam fıstığı ve zeytinyağını blenderda karıştırın. Parmesan ve tuz ekleyip karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/PESTO SOS.jpg"
+  },
+  {
+    "id": 9,
+    "name": "RANCH SOS",
+    "ingredient": "1 su bardağı mayonez, 1 çay bardağı yoğurt, 1 diş sarımsak, 1 yemek kaşığı dereotu, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Mayonez, yoğurt, ezilmiş sarımsak, ince doğranmış dereotu, tuz ve karabiberi karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/RANCH SOS.jpg"
+  },
+  {
+    "id": 10,
+    "name": "GUACAMOLE",
+    "ingredient": "2 adet avokado, 1 adet limon, 1 adet domates, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Avokadoyu ezin. Limon suyu, doğranmış domates, ezilmiş sarımsak, tuz ve karabiber ekleyip karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/soslarVeDipler/soslarVeDipler.img/GUACAMOLE.jpg"
+  }
+]

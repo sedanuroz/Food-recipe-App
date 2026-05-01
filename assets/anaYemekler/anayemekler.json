@@ -1,0 +1,254 @@
+[
+  {
+    "id": 1,
+    "name": "KÖFTE",
+    "ingredient": "500 g kıyma, 1 adet soğan, 1 dilim bayat ekmek içi, 1 adet yumurta, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "İlk olarak, soğanı ince ince rendeleyin. Rendelediğiniz soğanı, kıymaya ilave edin. Ekmek içini de küçük parçalara ayırıp kıymanın içine ekleyin. Ardından, yumurtayı kırın ve tuz ile karabiberi ekleyin. Tüm malzemeyi güzelce yoğurun ve karıştırın. Karışım homojen hale gelene kadar yoğurma işlemine devam edin. Şekil vererek köfteleri hazırlayın. Son olarak, bir tavada sıvı yağda köfteleri kızartarak, sıcak bir şekilde servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KÖFTE.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "TAVUK ŞİŞ",
+    "ingredient": "500 g tavuk göğsü, 1 yemek kaşığı yoğurt, 1 yemek kaşığı zeytinyağı, kırmızı biber, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Tavukları küp küp doğrayın. Yoğurt, zeytinyağı, kırmızı biber ve tuzla tavukları güzelce marine edin. Ardından, tavukları şişlere dizin ve ızgarada her iki tarafı iyice pişene kadar ızgarada pişirin. Pişen tavuk şişleri sıcak bir şekilde servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/TAVUK ŞİŞ.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "KARNIYARIK",
+    "ingredient": "4 adet patlıcan, 250 g kıyma, 1 adet soğan, 2 adet domates, 1 yemek kaşığı salça, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Patlıcanları ortadan ikiye kesin ve içlerini oyun. Kızgın yağda patlıcanları hafifçe kızartın. Ardından, soğanı ince ince doğrayın ve kıymayı ekleyerek kavurun. Kavurduğunuz kıymaya domatesleri doğrayın, salçayı ekleyin ve karıştırın. Hazırladığınız harcı kızarttığınız patlıcanların içine doldurun. Üstüne dilimlenmiş domatesleri ekleyip fırına verin. 180 derece sıcaklıkta 25-30 dakika kadar pişirin ve sıcak servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KARNIYARIK.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "ET SOTE",
+    "ingredient": "500 g kuşbaşı et, 1 adet soğan, 2 adet biber, 2 adet domates, 2 yemek kaşığı zeytinyağı, tuz, baharat.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "220 kcal"
+      }
+    ],
+    "recipe": "Öncelikle kuşbaşı etleri bir tavada zeytinyağında kavurun. Soğanı doğrayıp, etler kavrulunca ekleyin. Ardından, doğradığınız biberleri ve domatesleri ekleyin. Karışımı birkaç dakika daha pişirin ve tuz ile baharatları ekleyin. Yavaşça pişmeye devam ederken, etin yumuşak ve lezzetli bir hale gelmesini bekleyin. Sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/ET SOTE.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "FIRINDA BALIK",
+    "ingredient": "1 adet levrek, 2 yemek kaşığı zeytinyağı, 1 adet limon, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Balığı temizleyin ve dilimlenmiş limonla içini doldurun. Üzerine zeytinyağı, tuz, karabiber ve doğranmış sarımsağı ekleyin. Fırında 180 derecede yaklaşık 20-25 dakika kadar pişirin. Fırın balığınız hazır, sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/FIRINDA BALIK.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "KURU FASULYE",
+    "ingredient": "2 su bardağı kuru fasulye, 1 adet soğan, 1 yemek kaşığı salça, 200 g kuşbaşı et, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Kuru fasulyeleri bir gece önceden suya ıslatın. Ertesi gün fasulyeleri haşlayın. Ayrı bir tavada soğanı kavurun ve ardından kuşbaşı et ile salçayı ekleyin. Fasulyeleri ekledikten sonra karıştırın ve pişmeye bırakın. Tuzu ekleyip tatlandırdıktan sonra sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KURU FASULYE.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "KÖFTE",
+    "ingredient": "500 g kıyma, 1 adet soğan, 1 dilim bayat ekmek içi, 1 adet yumurta, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "İlk olarak, soğanı ince ince rendeleyin. Rendelediğiniz soğanı, kıymaya ilave edin. Ekmek içini de küçük parçalara ayırıp kıymanın içine ekleyin. Ardından, yumurtayı kırın ve tuz ile karabiberi ekleyin. Tüm malzemeyi güzelce yoğurun ve karıştırın. Karışım homojen hale gelene kadar yoğurma işlemine devam edin. Şekil vererek köfteleri hazırlayın. Son olarak, bir tavada sıvı yağda köfteleri kızartarak, sıcak bir şekilde servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KÖFTE.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "TAVUK ŞİŞ",
+    "ingredient": "500 g tavuk göğsü, 1 yemek kaşığı yoğurt, 1 yemek kaşığı zeytinyağı, kırmızı biber, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Tavukları küp küp doğrayın. Yoğurt, zeytinyağı, kırmızı biber ve tuzla tavukları güzelce marine edin. Ardından, tavukları şişlere dizin ve ızgarada her iki tarafı iyice pişene kadar ızgarada pişirin. Pişen tavuk şişleri sıcak bir şekilde servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/TAVUK ŞİŞ.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "KARNIYARIK",
+    "ingredient": "4 adet patlıcan, 250 g kıyma, 1 adet soğan, 2 adet domates, 1 yemek kaşığı salça, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Patlıcanları ortadan ikiye kesin ve içlerini oyun. Kızgın yağda patlıcanları hafifçe kızartın. Ardından, soğanı ince ince doğrayın ve kıymayı ekleyerek kavurun. Kavurduğunuz kıymaya domatesleri doğrayın, salçayı ekleyin ve karıştırın. Hazırladığınız harcı kızarttığınız patlıcanların içine doldurun. Üstüne dilimlenmiş domatesleri ekleyip fırına verin. 180 derece sıcaklıkta 25-30 dakika kadar pişirin ve sıcak servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KARNIYARIK.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "ET SOTE",
+    "ingredient": "500 g kuşbaşı et, 1 adet soğan, 2 adet biber, 2 adet domates, 2 yemek kaşığı zeytinyağı, tuz, baharat.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "220 kcal"
+      }
+    ],
+    "recipe": "Öncelikle kuşbaşı etleri bir tavada zeytinyağında kavurun. Soğanı doğrayıp, etler kavrulunca ekleyin. Ardından, doğradığınız biberleri ve domatesleri ekleyin. Karışımı birkaç dakika daha pişirin ve tuz ile baharatları ekleyin. Yavaşça pişmeye devam ederken, etin yumuşak ve lezzetli bir hale gelmesini bekleyin. Sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/ET SOTE.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "FIRINDA BALIK",
+    "ingredient": "1 adet levrek, 2 yemek kaşığı zeytinyağı, 1 adet limon, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Balığı temizleyin ve dilimlenmiş limonla içini doldurun. Üzerine zeytinyağı, tuz, karabiber ve doğranmış sarımsağı ekleyin. Fırında 180 derecede yaklaşık 20-25 dakika kadar pişirin. Fırın balığınız hazır, sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/FIRINDA BALIK.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "KURU FASULYE",
+    "ingredient": "2 su bardağı kuru fasulye, 1 adet soğan, 1 yemek kaşığı salça, 200 g kuşbaşı et, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Kuru fasulyeleri bir gece önceden suya ıslatın. Ertesi gün fasulyeleri haşlayın. Ayrı bir tavada soğanı kavurun ve ardından kuşbaşı et ile salçayı ekleyin. Fasulyeleri ekledikten sonra karıştırın ve pişmeye bırakın. Tuzu ekleyip tatlandırdıktan sonra sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KURU FASULYE.jpg"
+
+  },
+  {
+    "id": 13,
+    "name": "KÖFTE",
+    "ingredient": "500 g kıyma, 1 adet soğan, 1 dilim bayat ekmek içi, 1 adet yumurta, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "İlk olarak, soğanı ince ince rendeleyin. Rendelediğiniz soğanı, kıymaya ilave edin. Ekmek içini de küçük parçalara ayırıp kıymanın içine ekleyin. Ardından, yumurtayı kırın ve tuz ile karabiberi ekleyin. Tüm malzemeyi güzelce yoğurun ve karıştırın. Karışım homojen hale gelene kadar yoğurma işlemine devam edin. Şekil vererek köfteleri hazırlayın. Son olarak, bir tavada sıvı yağda köfteleri kızartarak, sıcak bir şekilde servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KÖFTE.jpg"
+
+  },
+  {
+    "id": 14,
+    "name": "TAVUK ŞİŞ",
+    "ingredient": "500 g tavuk göğsü, 1 yemek kaşığı yoğurt, 1 yemek kaşığı zeytinyağı, kırmızı biber, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Tavukları küp küp doğrayın. Yoğurt, zeytinyağı, kırmızı biber ve tuzla tavukları güzelce marine edin. Ardından, tavukları şişlere dizin ve ızgarada her iki tarafı iyice pişene kadar ızgarada pişirin. Pişen tavuk şişleri sıcak bir şekilde servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/TAVUK ŞİŞ.jpg"
+
+  },
+  {
+    "id": 15,
+    "name": "KARNIYARIK",
+    "ingredient": "4 adet patlıcan, 250 g kıyma, 1 adet soğan, 2 adet domates, 1 yemek kaşığı salça, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Patlıcanları ortadan ikiye kesin ve içlerini oyun. Kızgın yağda patlıcanları hafifçe kızartın. Ardından, soğanı ince ince doğrayın ve kıymayı ekleyerek kavurun. Kavurduğunuz kıymaya domatesleri doğrayın, salçayı ekleyin ve karıştırın. Hazırladığınız harcı kızarttığınız patlıcanların içine doldurun. Üstüne dilimlenmiş domatesleri ekleyip fırına verin. 180 derece sıcaklıkta 25-30 dakika kadar pişirin ve sıcak servis edin.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KARNIYARIK.jpg"
+
+  },
+  {
+    "id": 16,
+    "name": "ET SOTE",
+    "ingredient": "500 g kuşbaşı et, 1 adet soğan, 2 adet biber, 2 adet domates, 2 yemek kaşığı zeytinyağı, tuz, baharat.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "220 kcal"
+      }
+    ],
+    "recipe": "Öncelikle kuşbaşı etleri bir tavada zeytinyağında kavurun. Soğanı doğrayıp, etler kavrulunca ekleyin. Ardından, doğradığınız biberleri ve domatesleri ekleyin. Karışımı birkaç dakika daha pişirin ve tuz ile baharatları ekleyin. Yavaşça pişmeye devam ederken, etin yumuşak ve lezzetli bir hale gelmesini bekleyin. Sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/ET SOTE.jpg"
+
+  },
+  {
+    "id": 17,
+    "name": "FIRINDA BALIK",
+    "ingredient": "1 adet levrek, 2 yemek kaşığı zeytinyağı, 1 adet limon, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Balığı temizleyin ve dilimlenmiş limonla içini doldurun. Üzerine zeytinyağı, tuz, karabiber ve doğranmış sarımsağı ekleyin. Fırında 180 derecede yaklaşık 20-25 dakika kadar pişirin. Fırın balığınız hazır, sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/FIRINDA BALIK.jpg"
+
+  },
+  {
+    "id": 18,
+    "name": "KURU FASULYE",
+    "ingredient": "2 su bardağı kuru fasulye, 1 adet soğan, 1 yemek kaşığı salça, 200 g kuşbaşı et, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Kuru fasulyeleri bir gece önceden suya ıslatın. Ertesi gün fasulyeleri haşlayın. Ayrı bir tavada soğanı kavurun ve ardından kuşbaşı et ile salçayı ekleyin. Fasulyeleri ekledikten sonra karıştırın ve pişmeye bırakın. Tuzu ekleyip tatlandırdıktan sonra sıcak servis yapın.",
+    "image_url": "assets/anaYemekler/anaYemekler.img/KURU FASULYE.jpg"
+
+  }
+]

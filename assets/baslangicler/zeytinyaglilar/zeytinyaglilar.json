@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "ZEYTİNYAĞLI FASULYE",
+    "ingredient": "500 g taze fasulye, 2 adet domates, 1 adet soğan, 3 yemek kaşığı zeytinyağı, tuz, 1 çay bardağı su.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "70 kcal"
+      }
+    ],
+    "recipe": "Soğanı doğrayın ve zeytinyağında kavurun. Domatesleri doğrayıp soğana ekleyin, ardından fasulyeleri ilave edin. Tuz ve suyu ekleyin, karıştırın. Fasulyeleri kısık ateşte yaklaşık 30-40 dakika pişirin. Ara ara kontrol edin ve gerektiğinde su ekleyin.",
+    "image_url": "assets/baslangicler/zeytinyaglilar/zeytinyaglilar.img/ZEYTİNYAĞLI FASULYE.jpg"
+  },
+  {
+    "id": 2,
+    "name": "ZEYTİNYAĞLI ENGİNAR",
+    "ingredient": "4 adet enginar, 2 adet havuç, 1 adet patates, 1 çay bardağı bezelye, 3 yemek kaşığı zeytinyağı, limon suyu, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "80 kcal"
+      }
+    ],
+    "recipe": "Enginarları limonlu suya koyup kararmamalarını sağlayın. Havuç, patates ve bezelyeleri zeytinyağında hafifçe soteleyin. Enginarların içine bu karışımı yerleştirin, üzerine tuz ekleyin ve enginarları zeytinyağı ile pişirmeye devam edin. Tüm malzeme yumuşayana kadar pişirin.",
+    "image_url": "assets/baslangicler/zeytinyaglilar/zeytinyaglilar.img/ZEYTİNYAĞLI ENGİNAR.jpg"
+  },
+  {
+    "id": 3,
+    "name": "ZEYTİNYAĞLI BAMYA",
+    "ingredient": "500 g bamya, 2 adet domates, 1 adet soğan, 3 yemek kaşığı zeytinyağı, 1 limon suyu, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "60 kcal"
+      }
+    ],
+    "recipe": "Soğanı doğrayıp zeytinyağında kavurun. Doğranmış domatesi ve bamya ekleyin. Limon suyu ve tuz ekleyip karıştırın. Ardından kısık ateşte bamyalar yumuşayana kadar pişirin. Sıcak servis yapın.",
+    "image_url": "assets/baslangicler/zeytinyaglilar/zeytinyaglilar.img/ZEYTİNYAĞLI BAMYA.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ZEYTİNYAĞLI SARMA",
+    "ingredient": "300 g asma yaprağı, 2 su bardağı pirinç, 2 adet soğan, 1 çay bardağı zeytinyağı, 1 tatlı kaşığı nane, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Soğanı zeytinyağında kavurun. Pirinci, nane, tuz ve karabiberi ekleyip karıştırın. İç harcı asma yapraklarına sarın ve tencereye dizin. Üzerine su ekleyin, kısık ateşte pişirin.",
+    "image_url": "assets/baslangicler/zeytinyaglilar/zeytinyaglilar.img/ZEYTİNYAĞLI SARMA.jpg"
+  },
+  {
+    "id": 5,
+    "name": "ZEYTİNYAĞLI KEREVİZ",
+    "ingredient": "3 adet kereviz, 2 adet havuç, 1 adet patates, 3 yemek kaşığı zeytinyağı, 1 çay bardağı portakal suyu, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "75 kcal"
+      }
+    ],
+    "recipe": "Kereviz, havuç ve patatesi doğrayın. Zeytinyağı ile karıştırın ve kısık ateşte pişirin. Portakal suyunu ekleyin ve pişirme işlemini devam ettirin. Kereviz ve sebzeler yumuşadığında sıcak servis yapın.",
+    "image_url": "assets/baslangicler/zeytinyaglilar/zeytinyaglilar.img/ZEYTİNYAĞLI KEREVİZ.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ZEYTİNYAĞLI PATLICAN",
+    "ingredient": "4 adet patlıcan, 2 adet domates, 1 adet soğan, 3 yemek kaşığı zeytinyağı, 1 çay bardağı su, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "90 kcal"
+      }
+    ],
+    "recipe": "Patlıcanları doğrayıp tuzlu suda bekletin. Zeytinyağında soğanı kavurun. Ardından doğranmış domates ve patlıcanları ekleyin. Tuz ve suyu ekleyip kısık ateşte pişirin. Patlıcanlar yumuşayınca servise hazırdır.",
+    "image_url": "assets/baslangicler/zeytinyaglilar/zeytinyaglilar.img/ZEYTİNYAĞLI PATLICAN.jpg"
+  }
+]

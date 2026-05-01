@@ -1,0 +1,158 @@
+[
+  {
+    "id": 1,
+    "name": "HAMBURGER",
+    "ingredient": "2 adet hamburger ekmeği, 200 g kıyma, 2 dilim cheddar peyniri, marul, domates, turşu, ketçap, mayonez.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "500 kcal"
+      }
+    ],
+    "recipe": "Kıymadan köfte hazırlayıp kızartın. Ekmeği ortadan kesip köfte, peynir, marul, domates ve turşu ekleyin. Ketçap ve mayonezle servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/HAMBURGER.jpg"
+  },
+  {
+    "id": 2,
+    "name": "PATATES KIZARTMASI",
+    "ingredient": "500 g patates, 2 su bardağı sıvı yağ, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "312 kcal"
+      }
+    ],
+    "recipe": "Patatesleri soyup dilimleyin. Kızgın yağda kızartıp tuzla tatlandırın ve sıcak servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/PATATES KIZARTMASI.jpg"
+  },
+  {
+    "id": 3,
+    "name": "TAVUK BURGER",
+    "ingredient": "2 adet hamburger ekmeği, 200 g tavuk fileto, 2 dilim cheddar peyniri, marul, domates, ketçap, mayonez.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "450 kcal"
+      }
+    ],
+    "recipe": "Tavuk filetoları kızartın. Ekmeği kesip içine tavuk, peynir, marul ve domates ekleyin. Ketçap ve mayonez ekleyerek servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/TAVUK BURGER.jpg"
+  },
+  {
+    "id": 4,
+    "name": "PİZZA DİLİMLERİ",
+    "ingredient": "1 adet küçük boy pizza hamuru, 100 g mozarella, 50 g domates sosu, 50 g sucuk, zeytin.",
+    "calories": [
+      {
+        "portion": "1 dilim",
+        "calorie": "280 kcal"
+      }
+    ],
+    "recipe": "Hamuru açıp üzerine domates sosu sürün. Peynir, sucuk ve zeytin ekleyip fırında pişirin. Dilimleyerek servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/PİZZA DİLİMLERİ.jpg"
+  },
+  {
+    "id": 5,
+    "name": "NACHOS",
+    "ingredient": "200 g tortilla cipsi, 100 g rendelenmiş cheddar peyniri, 50 g salsa sosu, 50 g guacamole.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "300 kcal"
+      }
+    ],
+    "recipe": "Tortilla cipslerini bir tabağa yayın. Üzerine peynir ekleyip fırında eritin. Salsa ve guacamole ile servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/NACHOS.jpg"
+  },
+  {
+    "id": 6,
+    "name": "HOT DOG",
+    "ingredient": "2 adet sandviç ekmeği, 2 adet sosis, ketçap, mayonez, hardal.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "350 kcal"
+      }
+    ],
+    "recipe": "Sosisleri haşlayın veya kızartın. Sandviç ekmeğine koyup üzerine ketçap, mayonez ve hardal ekleyerek servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/HOT DOG.jpg"
+  },
+  {
+    "id": 7,
+    "name": "HAMBURGER",
+    "ingredient": "2 adet hamburger ekmeği, 200 g kıyma, 2 dilim cheddar peyniri, marul, domates, turşu, ketçap, mayonez.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "500 kcal"
+      }
+    ],
+    "recipe": "Kıymadan köfte hazırlayıp kızartın. Ekmeği ortadan kesip köfte, peynir, marul, domates ve turşu ekleyin. Ketçap ve mayonezle servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/HAMBURGER.jpg"
+  },
+  {
+    "id": 8,
+    "name": "PATATES KIZARTMASI",
+    "ingredient": "500 g patates, 2 su bardağı sıvı yağ, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "312 kcal"
+      }
+    ],
+    "recipe": "Patatesleri soyup dilimleyin. Kızgın yağda kızartıp tuzla tatlandırın ve sıcak servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/PATATES KIZARTMASI.jpg"
+  },
+  {
+    "id": 9,
+    "name": "TAVUK BURGER",
+    "ingredient": "2 adet hamburger ekmeği, 200 g tavuk fileto, 2 dilim cheddar peyniri, marul, domates, ketçap, mayonez.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "450 kcal"
+      }
+    ],
+    "recipe": "Tavuk filetoları kızartın. Ekmeği kesip içine tavuk, peynir, marul ve domates ekleyin. Ketçap ve mayonez ekleyerek servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/TAVUK BURGER.jpg"
+  },
+  {
+    "id": 10,
+    "name": "PİZZA DİLİMLERİ",
+    "ingredient": "1 adet küçük boy pizza hamuru, 100 g mozarella, 50 g domates sosu, 50 g sucuk, zeytin.",
+    "calories": [
+      {
+        "portion": "1 dilim",
+        "calorie": "280 kcal"
+      }
+    ],
+    "recipe": "Hamuru açıp üzerine domates sosu sürün. Peynir, sucuk ve zeytin ekleyip fırında pişirin. Dilimleyerek servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/PİZZA DİLİMLERİ.jpg"
+  },
+  {
+    "id": 11,
+    "name": "NACHOS",
+    "ingredient": "200 g tortilla cipsi, 100 g rendelenmiş cheddar peyniri, 50 g salsa sosu, 50 g guacamole.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "300 kcal"
+      }
+    ],
+    "recipe": "Tortilla cipslerini bir tabağa yayın. Üzerine peynir ekleyip fırında eritin. Salsa ve guacamole ile servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/NACHOS.jpg"
+  },
+  {
+    "id": 12,
+    "name": "HOT DOG",
+    "ingredient": "2 adet sandviç ekmeği, 2 adet sosis, ketçap, mayonez, hardal.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "350 kcal"
+      }
+    ],
+    "recipe": "Sosisleri haşlayın veya kızartın. Sandviç ekmeğine koyup üzerine ketçap, mayonez ve hardal ekleyerek servis edin.",
+    "image_url": "assets/fastfood/fastfood.img/HOT DOG.jpg"
+  }
+]

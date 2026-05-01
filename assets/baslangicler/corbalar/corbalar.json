@@ -1,0 +1,86 @@
+[
+  {
+    "id": 1,
+    "name": "TAVUK ÇORBASI",
+    "ingredient": "1 tavuk göğsü, 1 su bardağı tel şehriye, 1 adet soğan, 1 havuç, 1 tatlı kaşığı tuz, 1 tatlı kaşığı karabiber, 6 su bardağı su.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "50 kcal"
+      }
+    ],
+    "recipe": "Tavuk göğsünü suya koyup haşlayın. Haşlanan tavuk göğsünü didikleyin. Şehriyeyi kaynar suda haşlayın. Soğanı ince doğrayıp tereyağında pembeleşene kadar kavurun, ardından havucu rendeleyip ekleyin. Baharatları ekleyip karıştırarak tüm malzemeyi birleştirin. Son olarak, tavuk ve şehriye karışımını ekleyip 15 dakika kaynatın ve sıcak servis yapın.",
+    "image_url": "assets/baslangicler/corbalar/corbalar.img/TAVUK ÇORBASI.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "EZOGELİN ÇORBASI",
+    "ingredient": "1 su bardağı kırmızı mercimek, 1 adet soğan, 1 çay bardağı pirinç, 1 tatlı kaşığı nane, 1 tatlı kaşığı pul biber, 1 tatlı kaşığı tuz, 6 su bardağı su.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "80 kcal"
+      }
+    ],
+    "recipe": "Mercimekleri yıkayıp 20 dakika haşlayın. Soğanı ince doğrayıp sıvı yağda pembeleşene kadar kavurun. Pirinci yıkayıp soğanın üzerine ekleyin, ardından baharatları da ekleyip birkaç dakika kavurun. Haşlanmış mercimekleri ve suyu ekleyin, kaynadıktan sonra kısık ateşte 10 dakika kadar pişirin ve sıcak servis yapın.",
+    "image_url": "assets/baslangicler/corbalar/corbalar.img/EZOGELİN ÇORBASI.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "MANTAR ÇORBASI",
+    "ingredient": "300 g mantar, 1 adet soğan, 1 su bardağı süt, 1 yemek kaşığı tereyağı, 6 su bardağı su, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "60 kcal"
+      }
+    ],
+    "recipe": "Mantarları yıkayıp doğrayın. Soğanı ince doğrayıp tereyağında pembeleşene kadar kavurun. Ardından mantarları ekleyin ve karıştırarak soteleyin. Mantarlar suyunu salınca, süt ve suyu ekleyin. Tuz ve baharatlarla tatlandırıp, 10 dakika kaynatın. Çorba kıvamına geldiğinde sıcak servis yapın.",
+    "image_url": "assets/baslangicler/corbalar/corbalar.img/MANTAR ÇORBASI.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "KIRMIZI MERCİMEK ÇORBASI",
+    "ingredient": "1 su bardağı kırmızı mercimek, 1 adet soğan, 1 adet havuç, 1 tatlı kaşığı tuz, 1 tatlı kaşığı pul biber, 6 su bardağı su.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "70 kcal"
+      }
+    ],
+    "recipe": "Mercimekleri yıkayıp haşlayın. Soğanı doğrayıp tereyağında kavurun. Havuçları rendeleyip karıştırın, ardından kaynayan mercimeklere ekleyin. Baharatları ve suyu da ilave ederek kaynamaya bırakın. Çorbanın kıvamını ayarlayıp sıcak servis yapın.",
+    "image_url": "assets/baslangicler/corbalar/corbalar.img/KIRMIZI MERCİMEK ÇORBASI.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "YOĞURT ÇORBASI",
+    "ingredient": "1 su bardağı yoğurt, 1 yemek kaşığı un, 1 yumurta, 6 su bardağı su, tuz, karabiber, nane.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "50 kcal"
+      }
+    ],
+    "recipe": "Yoğurdu, yumurtayı ve unu çırpın. Karışıma azar azar su ekleyerek pürüzsüz hale getirin. Karışımı tencereye alıp, karıştırarak pişirin. Tuz ve baharatları ekledikten sonra kaynamaya başlayınca, 10 dakika kadar pişirmeye devam edin. Nane ile süsleyip sıcak servis yapın.",
+    "image_url": "assets/baslangicler/corbalar/corbalar.img/YOĞURT ÇORBASI.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "DOMATES ÇORBASI",
+    "ingredient": "4 adet domates, 1 adet soğan, 1 yemek kaşığı tereyağı, 4 su bardağı su, tuz, karabiber, nane.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "40 kcal"
+      }
+    ],
+    "recipe": "Domatesleri doğrayıp, tereyağında kavurun. Suyu ekleyip, kaynamaya bırakın. Karışımı pürüzsüz hale getirebilmek için bir blender ile çekin. Baharatları ekleyip, 10 dakika daha kaynatarak sıcak servis yapın.",
+    "image_url": "assets/baslangicler/corbalar/corbalar.img/DOMATES ÇORBASI.jpg"
+
+  }
+]

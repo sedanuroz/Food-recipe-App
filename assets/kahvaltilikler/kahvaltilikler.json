@@ -1,0 +1,132 @@
+[
+  {
+    "id": 1,
+    "name": "OMLET",
+    "ingredient": "2 adet yumurta, 1 yemek kaşığı tereyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "1 porsiyon",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Yumurtaları tuz ve karabiberle çırpın. Tereyağını tavada eritip yumurtaları ekleyin. Karıştırmadan pişirip servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/OMLET.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MENEMEN",
+    "ingredient": "3 adet domates, 2 adet biber, 2 adet yumurta, 1 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "1 porsiyon",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "Domates ve biberleri doğrayıp zeytinyağında kavurun. Yumurtaları ekleyip karıştırarak pişirin ve sıcak servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/MENEMEN.jpg"
+  },
+  {
+    "id": 3,
+    "name": "KREP",
+    "ingredient": "1 su bardağı un, 1 su bardağı süt, 1 adet yumurta, 1 yemek kaşığı sıvı yağ, tuz.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Un, süt, yumurta, sıvı yağ ve tuzu çırpın. Teflon tavada ince katmanlar halinde pişirip sıcak servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/KREP.jpg"
+  },
+  {
+    "id": 4,
+    "name": "BOYOZ",
+    "ingredient": "2 adet boyoz, 1 dilim haşlanmış yumurta, 10 adet zeytin.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "250 kcal"
+      }
+    ],
+    "recipe": "Boyozları fırında ısıtın. Yanında haşlanmış yumurta ve zeytinle birlikte servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/BOYOZ.jpg"
+  },
+  {
+    "id": 5,
+    "name": "PANKEK",
+    "ingredient": "1 su bardağı un, 1 su bardağı süt, 1 adet yumurta, 1 yemek kaşığı şeker, 1 çay kaşığı kabartma tozu.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "100 kcal"
+      }
+    ],
+    "recipe": "Un, süt, yumurta, şeker ve kabartma tozunu çırpın. Tavada küçük yuvarlaklar halinde pişirip servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/PANKEK.jpg"
+  },
+  {
+    "id": 6,
+    "name": "OMLET",
+    "ingredient": "2 adet yumurta, 1 yemek kaşığı tereyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "1 porsiyon",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Yumurtaları tuz ve karabiberle çırpın. Tereyağını tavada eritip yumurtaları ekleyin. Karıştırmadan pişirip servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/OMLET.jpg"
+  },
+  {
+    "id": 7,
+    "name": "MENEMEN",
+    "ingredient": "3 adet domates, 2 adet biber, 2 adet yumurta, 1 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "1 porsiyon",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "Domates ve biberleri doğrayıp zeytinyağında kavurun. Yumurtaları ekleyip karıştırarak pişirin ve sıcak servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/MENEMEN.jpg"
+  },
+  {
+    "id": 8,
+    "name": "KREP",
+    "ingredient": "1 su bardağı un, 1 su bardağı süt, 1 adet yumurta, 1 yemek kaşığı sıvı yağ, tuz.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Un, süt, yumurta, sıvı yağ ve tuzu çırpın. Teflon tavada ince katmanlar halinde pişirip sıcak servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/KREP.jpg"
+  },
+  {
+    "id": 9,
+    "name": "BOYOZ",
+    "ingredient": "2 adet boyoz, 1 dilim haşlanmış yumurta, 10 adet zeytin.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "250 kcal"
+      }
+    ],
+    "recipe": "Boyozları fırında ısıtın. Yanında haşlanmış yumurta ve zeytinle birlikte servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/BOYOZ.jpg"
+  },
+  {
+    "id": 10,
+    "name": "PANKEK",
+    "ingredient": "1 su bardağı un, 1 su bardağı süt, 1 adet yumurta, 1 yemek kaşığı şeker, 1 çay kaşığı kabartma tozu.",
+    "calories": [
+      {
+        "portion": "1 adet",
+        "calorie": "100 kcal"
+      }
+    ],
+    "recipe": "Un, süt, yumurta, şeker ve kabartma tozunu çırpın. Tavada küçük yuvarlaklar halinde pişirip servis edin.",
+    "image_url": "assets/kahvaltilikler/kahvaltilikler.img/PANKEK.jpg"
+  }
+]

@@ -1,0 +1,157 @@
+[
+  {
+    "id": 1,
+    "name": "TİRAMİSU",
+    "ingredient": "400 g bisküvi (savoiardi) (ladyfingers), 500 g maskarpon peynir (Mascarpone cheese), 3 yumurta (beyazı ve sarısı ayrılmış), 100 g toz şeker, 200 ml krema (süt kreması), 1 çay bardağı sıcak kahve (veya espresso), 2 yemek kaşığı rom veya kahve likörü (isteğe bağlı), Kakao tozu (üzeri için), Çikolata rendesi (isteğe bağlı süsleme için).",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "350 kcal"
+      }
+    ],
+    "recipe": "Öncelikle kahveyi demlenmesi için hazırlayın ve soğumasını bekleyin. Bisküvileri kahveye batırıp, bir tepsiye yerleştirin. Yumurta sarılarını toz şekerle çırpın, maskarpon peynirini ekleyip karıştırın. Ayrı bir kapta yumurta beyazlarını çırpın ve dikkatlice karışıma ilave edin. Hazırlanan kremayı bisküvilerin üzerine dökün ve tüm katmanları düzgün bir şekilde yerleştirin. Üzerine bir miktar kakao serpip, pastayı buzdolabında en az 4 saat soğutun. Son olarak tercihe göre üzerine çikolata rendesi ekleyebilirsiniz.",
+    "image_url": "assets/tatlilar/tatlilar.img/tiramisu.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "KADAYIF DOLMASI",
+    "ingredient": "500 g kadayıf, 200 g ceviz içi, 200 g tereyağı, 1 su bardağı toz şeker, 1 su bardağı su, 1 tatlı kaşığı limon suyu.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "320 kcal"
+      }
+    ],
+    "recipe": "Kadayıfı açarak, her bir kadayıf telini ceviz içi ile sarın. Tereyağını eritip, kadayıfların üzerine gezdirin. Şerbeti hazırlamak için, toz şeker ve suyu kaynatın, ardından limon suyunu ekleyin. Şerbet kaynadıktan sonra, kadayıfların üzerine dökün. Kadayıfları önceden ısıtılmış 180 derece fırında yaklaşık 30-40 dakika pişirin, üzeri altın rengini aldığında çıkarın ve şerbeti çekmesi için dinlendirin.",
+    "image_url": "assets/tatlilar/tatlilar.img/KADAYIF DOLMASI.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "BAKLAVA",
+    "ingredient": "1 paket yufka, 300 g ceviz içi, 200 g tereyağı, 1 su bardağı toz şeker, 1 su bardağı su, 1 çay kaşığı limon suyu.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "450 kcal"
+      }
+    ],
+    "recipe": "Baklava yapmaya başlamak için önce yufkaları tezgahınıza serin. Her bir kat yufkayı tereyağla yağlayın ve arasına ceviz serpin. Yufkaların üst üste katlarını koyarak baklava dilimlerini kesin. Fırında önceden ısıtılmış 180 dereceye kadar pişirin. Şerbeti hazırlamak için, su ve şekeri kaynatın, limon suyunu ekleyin. Fırından çıkan sıcak baklavanın üzerine sıcak şerbeti dökün ve şerbetin çekmesini bekleyin.",
+    "image_url": "assets/tatlilar/tatlilar.img/BAKLAVA.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "MUHALLEBİ",
+    "ingredient": "1 litre süt, 3 yemek kaşığı nişasta, 1 su bardağı toz şeker, 1 paket vanilin, 1 yemek kaşığı tereyağı.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Sütü tencereye alıp ısınmaya bırakın. Nişastayı, şekeri ve vanilini ekleyin. Karıştırarak, muhallebi kıvamını alıncaya kadar pişirin. Ocağın altını kapattıktan sonra tereyağını ekleyin ve karıştırın. Hazırladığınız muhallebiyi bardaklara dökün ve soğumaya bırakın. Soğuduktan sonra üzerine tarçın serpiştirerek servis yapabilirsiniz.",
+    "image_url": "assets/tatlilar/tatlilar.img/MUHALLEBİ.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "KURABİYE",
+    "ingredient": "200 g tereyağı, 1 su bardağı toz şeker, 1 yumurta, 2 su bardağı un, 1 paket vanilin, 1 çay kaşığı kabartma tozu.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "400 kcal"
+      }
+    ],
+    "recipe": "Öncelikle tereyağı ve toz şekeri krema kıvamına gelene kadar çırpın. Ardından yumurtayı ekleyip karıştırın. Un, vanilin ve kabartma tozunu ekleyip, yumuşak bir hamur yoğurun. Hamuru dinlendirip, şekil verin ve önceden ısıtılmış fırında 180 dereceye kadar pişirin. Pişen kurabiyeleri soğuyana kadar bekleyin ve çayın yanında servis yapın.",
+    "image_url": "assets/tatlilar/tatlilar.img/KURABİYE.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "ÇİKOLATA MOUSSE",
+    "ingredient": "200 g bitter çikolata, 200 ml krema, 2 yumurta sarısı, 2 yemek kaşığı şeker.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "350 kcal"
+      }
+    ],
+    "recipe": "Çikolatayı benmari usulü eritin, ardından kremayı ekleyip karıştırın. Yumurtaların sarılarını şekerle çırpıp, çikolatalı karışıma ekleyin. Karışımı mikserle çırpın ve soğumaya bırakın. Buzdolabında en az 2 saat soğutun, ardından servis yapın.",
+    "image_url": "assets/tatlilar/tatlilar.img/ÇİKOLATA MOUSSE.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "RENGARENK PASTA",
+    "ingredient": "1 paket kek harcı, 100 g çikolata, 200 ml krema, 1 su bardağı şeker, 3 yumurta, renkli şekerlemeler.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "270 kcal"
+      }
+    ],
+    "recipe": "Kek harcını hazırlayıp pişirin. Kek soğuduktan sonra üzerine çikolata ve krema karışımını dökün. Pastayı renkli şekerlemelerle süsleyip, servise hazır hale getirin.",
+    "image_url": "assets/tatlilar/tatlilar.img/RENGARENK PASTA.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "LİMONLU KEK",
+    "ingredient": "200 g un, 200 g toz şeker, 4 yumurta, 100 g tereyağı, 1 limon suyu ve kabuğu, 1 paket kabartma tozu.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "250 kcal"
+      }
+    ],
+    "recipe": "Yumurtaları çırpın, şeker ve tereyağını ekleyip karıştırın. Limon suyu ve kabuğunu ilave ettikten sonra, un ve kabartma tozunu ekleyin. Hamuru karıştırarak fırın kabına dökün ve 180 derecede pişirin. Pişen kek soğuduktan sonra dilimleyip servis yapın.",
+    "image_url": "assets/tatlilar/tatlilar.img/LİMONLU KEK.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "PASTANE KURABİYESİ",
+    "ingredient": "300 g un, 100 g tereyağı, 1 yumurta, 1 su bardağı pudra şekeri, 1 paket vanilin.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "380 kcal"
+      }
+    ],
+    "recipe": "Bütün malzemeleri karıştırarak hamur yoğurun. Şekil vererek fırında pişirin. Çayın yanında keyifle tüketebilirsiniz.",
+    "image_url": "assets/tatlilar/tatlilar.img/PASTANE KURABİYESİ.jpg"
+
+  },
+  {
+    " id": 10,
+    "name": "FIRIN SÜTLAÇ",
+    "ingredient": "1 litre süt, 1 su bardağı pirinç, 1 su bardağı şeker, 1 paket vanilin.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Süt ve pirinci kaynatıp, şeker ve vanilini ekleyin. Karışımı fırına verin ve üstü hafif kızarana kadar pişirin.",
+    "image_url": "assets/tatlilar/tatlilar.img/FIRIN SÜTLAÇ.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "ÇİKOLATA FONDÜ",
+    "ingredient": "200 g bitter çikolata, 100 g süt kreması, 1 yemek kaşığı tereyağı, meyveler (çilek, muz).",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "450 kcal"
+      }
+    ],
+    "recipe": "Çikolatayı kremayla birlikte eritin ve tereyağını ekleyin. Meyveleri doğrayarak çikolataya batırarak afiyetle yiyebilirsiniz.",
+    "image_url": "assets/tatlilar/tatlilar.img/ÇİKOLATA FONDÜ.jpg"
+
+  }
+
+]

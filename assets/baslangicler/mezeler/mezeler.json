@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "HUMUS",
+    "ingredient": "300 g nohut, 2 yemek kaşığı tahin, 2 diş sarımsak, 1 limonun suyu, 3 yemek kaşığı zeytinyağı, tuz, kimyon.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "166 kcal"
+      }
+    ],
+    "recipe": "Nohutları haşlayın ve tahin, ezilmiş sarımsak, limon suyu, zeytinyağı, tuz ve kimyon ile birlikte bir mutfak robotunda püre haline getirin. Karışım pürüzsüz olana kadar çekmeye devam edin. Humusu bir kaba alıp, üzerini zeytinyağı ile süsleyebilirsiniz.",
+    "image_url": "assets/baslangicler/mezeler/mezeler.img/HUMUS.jpg"
+  },
+  {
+    "id": 2,
+    "name": "PATLICAN EZMESİ",
+    "ingredient": "2 adet közlenmiş patlıcan, 2 yemek kaşığı yoğurt, 1 diş sarımsak, 1 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Patlıcanları közleyip kabuklarını soyun. Bir kaseye alın, üzerine yoğurt, ezilmiş sarımsak, zeytinyağı ve tuz ekleyin. Karışımı iyice karıştırarak pürüzsüz bir kıvam elde edin. Patlıcan ezmesini soğutun ve soğuk servis edin.",
+    "image_url": "assets/baslangicler/mezeler/mezeler.img/PATLICAN EZMESİ.jpg"
+  },
+  {
+    "id": 3,
+    "name": "CEVİZLİ EZME",
+    "ingredient": "200 g ceviz içi, 2 yemek kaşığı domates salçası, 2 yemek kaşığı biber salçası, 1 çay bardağı zeytinyağı, pul biber, kimyon.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "250 kcal"
+      }
+    ],
+    "recipe": "Cevizleri ince ince çekin. Domates ve biber salçalarını, zeytinyağını ve baharatları ekleyip iyice karıştırın. Karışımı pürüzsüz olana kadar yoğurun. Cevizli ezme, tat ve kıvam açısından zengin bir lezzet olacaktır.",
+    "image_url": "assets/baslangicler/mezeler/mezeler.img/CEVİZLİ EZME.jpg"
+  },
+  {
+    "id": 4,
+    "name": "HAYDARİ",
+    "ingredient": "200 g süzme yoğurt, 2 diş sarımsak, 1 yemek kaşığı zeytinyağı, nane, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "85 kcal"
+      }
+    ],
+    "recipe": "Süzme yoğurdu bir kaseye alın. Sarımsakları ezin ve yoğurtla karıştırın. Zeytinyağını, tuzu ve nane yapraklarını ekleyin. Karışımı iyice karıştırıp buzdolabında soğutun. Soğuduktan sonra servise hazır olacaktır.",
+    "image_url": "assets/baslangicler/mezeler/mezeler.img/HAYDARİ.jpg"
+  },
+  {
+    "id": 5,
+    "name": "MUHAMMARA",
+    "ingredient": "2 dilim bayat ekmek içi, 2 yemek kaşığı biber salçası, 3 yemek kaşığı zeytinyağı, 50 g ceviz, 1 diş sarımsak, kimyon, pul biber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "240 kcal"
+      }
+    ],
+    "recipe": "Bayat ekmek içlerini ıslatıp sıkın. Biber salçası, ceviz, sarımsak, kimyon ve pul biberi ekleyin. Tüm malzemeyi birleştirip püre haline getirin. Muhammara, lezzetini daha da artırmak için soğuk servis edilmelidir.",
+    "image_url": "assets/baslangicler/mezeler/mezeler.img/MUHAMMARA.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ZEYTİN EZMESİ",
+    "ingredient": "200 g siyah zeytin, 2 yemek kaşığı zeytinyağı, 1 diş sarımsak, kekik.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "210 kcal"
+      }
+    ],
+    "recipe": "Siyah zeytinleri çekirdeklerinden ayırın ve bir kaseye alın. Üzerine zeytinyağını, ezilmiş sarımsağı ve kekik ekleyip iyice karıştırın. Zeytin ezmesi, hafif tuzlu ve aromatik bir tat sunar.",
+    "image_url": "assets/baslangicler/mezeler/mezeler.img/ZEYTİN EZMESİ.jpg"
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "name": "SPAGETTİ BOLOGNESE",
+    "ingredient": "500 g spagetti, 300 g kıyma, 1 adet soğan, 2 diş sarımsak, 200 g domates sosu, 3 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında kıyma, soğan ve sarımsağı kavurun. Domates sosunu ekleyip karıştırın. Haşlanmış makarna ile karıştırıp servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/SPAGETTİ BOLOGNESE.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "FETTUCİNE ALFREDO",
+    "ingredient": "500 g fettucine, 200 ml krema, 100 g parmesan peyniri, 2 yemek kaşığı tereyağı, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "Tereyağında sarımsağı kavurun, krema ve parmesan ekleyin. Haşlanmış fettucine ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/FETTUCİNE ALFREDO.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "PESTO SOSLU MAKARNA",
+    "ingredient": "500 g penne makarna, 100 g fesleğen, 50 g çam fıstığı, 100 ml zeytinyağı, 50 g parmesan peyniri, 2 diş sarımsak.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Fesleğen, çam fıstığı, sarımsak, zeytinyağı ve parmesan ile pesto sosu hazırlayın. Haşlanmış makarna ile karıştırın.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/PESTO SOSLU MAKARNA.jpg"
+
+  },
+  {
+    "id": 4,
+    "name": "DOMATESLİ PENNE",
+    "ingredient": "500 g penne, 4 adet domates, 2 diş sarımsak, 3 yemek kaşığı zeytinyağı, 1 çay kaşığı kekik, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "160 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında sarımsakları kavurun, doğranmış domatesleri ekleyip sos hazırlayın. Haşlanmış penne ile karıştırıp servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/DOMATESLİ PENNE.webp"
+
+  },
+  {
+    "id": 5,
+    "name": "KREMALI MANTARLI MAKARNA",
+    "ingredient": "500 g makarna, 200 g mantar, 200 ml krema, 2 yemek kaşığı tereyağı, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "190 kcal"
+      }
+    ],
+    "recipe": "Tereyağında mantar ve sarımsağı kavurun. Krema ekleyip sos hazırlayın. Haşlanmış makarna ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/KREMALI MANTARLI MAKARNA.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "CARBONARA",
+    "ingredient": "500 g spagetti, 100 g pancetta, 2 adet yumurta sarısı, 50 g parmesan peyniri, 2 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "210 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında pancettayı kavurun. Yumurta sarısı ve parmesan ile sos hazırlayın. Haşlanmış spagetti ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/CARBONARA.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "SPAGETTİ BOLOGNESE",
+    "ingredient": "500 g spagetti, 300 g kıyma, 1 adet soğan, 2 diş sarımsak, 200 g domates sosu, 3 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında kıyma, soğan ve sarımsağı kavurun. Domates sosunu ekleyip karıştırın. Haşlanmış makarna ile karıştırıp servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/SPAGETTİ BOLOGNESE.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "FETTUCİNE ALFREDO",
+    "ingredient": "500 g fettucine, 200 ml krema, 100 g parmesan peyniri, 2 yemek kaşığı tereyağı, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "Tereyağında sarımsağı kavurun, krema ve parmesan ekleyin. Haşlanmış fettucine ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/FETTUCİNE ALFREDO.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "PESTO SOSLU MAKARNA",
+    "ingredient": "500 g penne makarna, 100 g fesleğen, 50 g çam fıstığı, 100 ml zeytinyağı, 50 g parmesan peyniri, 2 diş sarımsak.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Fesleğen, çam fıstığı, sarımsak, zeytinyağı ve parmesan ile pesto sosu hazırlayın. Haşlanmış makarna ile karıştırın.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/PESTO SOSLU MAKARNA.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "DOMATESLİ PENNE",
+    "ingredient": "500 g penne, 4 adet domates, 2 diş sarımsak, 3 yemek kaşığı zeytinyağı, 1 çay kaşığı kekik, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "160 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında sarımsakları kavurun, doğranmış domatesleri ekleyip sos hazırlayın. Haşlanmış penne ile karıştırıp servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/DOMATESLİ PENNE.webp"
+
+  },
+  {
+    "id": 11,
+    "name": "KREMALI MANTARLI MAKARNA",
+    "ingredient": "500 g makarna, 200 g mantar, 200 ml krema, 2 yemek kaşığı tereyağı, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "190 kcal"
+      }
+    ],
+    "recipe": "Tereyağında mantar ve sarımsağı kavurun. Krema ekleyip sos hazırlayın. Haşlanmış makarna ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/KREMALI MANTARLI MAKARNA.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "CARBONARA",
+    "ingredient": "500 g spagetti, 100 g pancetta, 2 adet yumurta sarısı, 50 g parmesan peyniri, 2 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "210 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında pancettayı kavurun. Yumurta sarısı ve parmesan ile sos hazırlayın. Haşlanmış spagetti ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/CARBONARA.jpg"
+  },
+  {
+    "id": 13,
+    "name": "SPAGETTİ BOLOGNESE",
+    "ingredient": "500 g spagetti, 300 g kıyma, 1 adet soğan, 2 diş sarımsak, 200 g domates sosu, 3 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "150 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında kıyma, soğan ve sarımsağı kavurun. Domates sosunu ekleyip karıştırın. Haşlanmış makarna ile karıştırıp servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/SPAGETTİ BOLOGNESE.jpg"
+
+  },
+  {
+    "id": 14,
+    "name": "FETTUCİNE ALFREDO",
+    "ingredient": "500 g fettucine, 200 ml krema, 100 g parmesan peyniri, 2 yemek kaşığı tereyağı, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "200 kcal"
+      }
+    ],
+    "recipe": "Tereyağında sarımsağı kavurun, krema ve parmesan ekleyin. Haşlanmış fettucine ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/FETTUCİNE ALFREDO.jpg"
+
+  },
+  {
+    "id": 15,
+    "name": "PESTO SOSLU MAKARNA",
+    "ingredient": "500 g penne makarna, 100 g fesleğen, 50 g çam fıstığı, 100 ml zeytinyağı, 50 g parmesan peyniri, 2 diş sarımsak.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Fesleğen, çam fıstığı, sarımsak, zeytinyağı ve parmesan ile pesto sosu hazırlayın. Haşlanmış makarna ile karıştırın.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/PESTO SOSLU MAKARNA.jpg"
+
+  },
+  {
+    "id": 16,
+    "name": "DOMATESLİ PENNE",
+    "ingredient": "500 g penne, 4 adet domates, 2 diş sarımsak, 3 yemek kaşığı zeytinyağı, 1 çay kaşığı kekik, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "160 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında sarımsakları kavurun, doğranmış domatesleri ekleyip sos hazırlayın. Haşlanmış penne ile karıştırıp servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/DOMATESLİ PENNE.webp"
+
+  },
+  {
+    "id": 17,
+    "name": "KREMALI MANTARLI MAKARNA",
+    "ingredient": "500 g makarna, 200 g mantar, 200 ml krema, 2 yemek kaşığı tereyağı, 1 diş sarımsak, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "190 kcal"
+      }
+    ],
+    "recipe": "Tereyağında mantar ve sarımsağı kavurun. Krema ekleyip sos hazırlayın. Haşlanmış makarna ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/KREMALI MANTARLI MAKARNA.jpg"
+
+  },
+  {
+    "id": 18,
+    "name": "CARBONARA",
+    "ingredient": "500 g spagetti, 100 g pancetta, 2 adet yumurta sarısı, 50 g parmesan peyniri, 2 yemek kaşığı zeytinyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "210 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında pancettayı kavurun. Yumurta sarısı ve parmesan ile sos hazırlayın. Haşlanmış spagetti ile karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/makarnalar/makarnalar.img/CARBONARA.jpg"
+
+  }
+]

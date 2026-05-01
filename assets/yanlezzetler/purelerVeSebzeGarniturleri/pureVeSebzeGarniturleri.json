@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "PATATES PÜRESİ",
+    "ingredient": "4 adet patates, 1 su bardağı süt, 2 yemek kaşığı tereyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Patatesleri haşlayıp ezin. Süt, tereyağı, tuz ve karabiber ekleyip karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/purelerVeSebzeGarniturleri/purelerVeSebzeGarniturleri.img/PATATES PÜRESİ.jpg"
+  },
+  {
+    "id": 2,
+    "name": "KARNABAHAR PÜRESİ",
+    "ingredient": "1 adet karnabahar, 1 su bardağı süt, 1 yemek kaşığı tereyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "70 kcal"
+      }
+    ],
+    "recipe": "Karnabaharı haşlayıp ezin. Süt, tereyağı, tuz ve karabiber ekleyerek karıştırın. Servis edin.",
+    "image_url": "assets/yanlezzetler/purelerVeSebzeGarniturleri/purelerVeSebzeGarniturleri.img/KARNABAHAR PÜRESİ.jpg"
+  },
+  {
+    "id": 3,
+    "name": "HAVUÇ PÜRESİ",
+    "ingredient": "4 adet havuç, 1 çay bardağı krema, 1 yemek kaşığı tereyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "80 kcal"
+      }
+    ],
+    "recipe": "Havuçları haşlayıp ezin. Krema, tereyağı ve tuz ekleyip karıştırarak servis edin.",
+    "image_url": "assets/yanlezzetler/purelerVeSebzeGarniturleri/purelerVeSebzeGarniturleri.img/HAVUÇ PÜRESİ.jpg"
+  },
+  {
+    "id": 4,
+    "name": "SEBZELİ GARNİTÜR",
+    "ingredient": "2 adet patates, 2 adet havuç, 1 su bardağı bezelye, 2 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "90 kcal"
+      }
+    ],
+    "recipe": "Patates ve havucu küp küp doğrayıp haşlayın. Bezelye ve zeytinyağı ile karıştırıp tuz ekleyin.",
+    "image_url": "assets/yanlezzetler/purelerVeSebzeGarniturleri/purelerVeSebzeGarniturleri.img/SEBZELİ GARNİTÜR.jpg"
+  },
+  {
+    "id": 5,
+    "name": "BROKOLİ PÜRESİ",
+    "ingredient": "1 adet brokoli, 1 çay bardağı süt, 1 yemek kaşığı tereyağı, tuz, karabiber.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "65 kcal"
+      }
+    ],
+    "recipe": "Brokoliyi haşlayıp ezin. Süt, tereyağı, tuz ve karabiber ekleyip karıştırın. Servis edin.",
+    "image_url": "assets/yanlezzetler/purelerVeSebzeGarniturleri/purelerVeSebzeGarniturleri.img/BROKOLİ PÜRESİ.jpg"
+  },
+  {
+    "id": 6,
+    "name": "PATLICAN PÜRESİ",
+    "ingredient": "3 adet patlıcan, 1 çay bardağı süt, 1 yemek kaşığı tereyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "75 kcal"
+      }
+    ],
+    "recipe": "Patlıcanları közleyip kabuklarını soyun. Süt, tereyağı ve tuz ekleyip püre haline getirin.",
+    "image_url": "assets/yanlezzetler/purelerVeSebzeGarniturleri/purelerVeSebzeGarniturleri.img/PATLICAN PÜRESİ.jpg"
+  }
+]

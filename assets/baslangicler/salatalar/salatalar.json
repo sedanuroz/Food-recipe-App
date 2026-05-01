@@ -1,0 +1,80 @@
+[
+  {
+    "id": 1,
+    "name": "ÇOBAN SALATASI",
+    "ingredient": "2 adet domates, 1 adet salatalık, 1 adet yeşil biber, 1 adet kuru soğan, 2 yemek kaşığı zeytinyağı, limon suyu, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "60 kcal"
+      }
+    ],
+    "recipe": "Domates, salatalık, biber ve soğanı küçük küpler halinde doğrayın. Zeytinyağı, limon suyu ve tuz ekleyip karıştırın.",
+    "image_url": "assets/baslangicler/salatalar/salatalar.img/ÇOBAN SALATASI.jpg"
+  },
+  {
+    "id": 2,
+    "name": "MEVSİM SALATASI",
+    "ingredient": "1 adet marul, 1 adet havuç, 1 adet kırmızı lahana, 2 yemek kaşığı zeytinyağı, limon suyu, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "50 kcal"
+      }
+    ],
+    "recipe": "Marulu doğrayın, havuç ve kırmızı lahanayı rendeleyin. Zeytinyağı, limon suyu ve tuz ekleyerek karıştırın.",
+    "image_url": "assets/baslangicler/salatalar/salatalar.img/MEVSİM SALATASI.jpg"
+  },
+  {
+    "id": 3,
+    "name": "PATATES SALATASI",
+    "ingredient": "4 adet haşlanmış patates, 1 adet kuru soğan, 2 dal taze soğan, 2 yemek kaşığı zeytinyağı, limon suyu, tuz, maydanoz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "110 kcal"
+      }
+    ],
+    "recipe": "Patatesleri küp şeklinde doğrayın. Soğanları ve maydanozu ekleyip zeytinyağı, limon suyu ve tuzla karıştırın.",
+    "image_url": "assets/baslangicler/salatalar/salatalar.img/PATATES SALATASI.jpg"
+  },
+  {
+    "id": 4,
+    "name": "TAVUKLU SEZAR SALATA",
+    "ingredient": "200 g ızgara tavuk, 1 adet marul, 50 g parmesan peyniri, 2 dilim tost ekmeği, 2 yemek kaşığı zeytinyağı, limon suyu, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "180 kcal"
+      }
+    ],
+    "recipe": "Marulu doğrayın, ızgara tavuk ve küp şeklinde kızarmış ekmekleri ekleyin. Parmesan, zeytinyağı, limon suyu ve tuzla karıştırın.",
+    "image_url": "assets/baslangicler/salatalar/salatalar.img/TAVUKLU SEZAR SALATA.jpg"
+  },
+  {
+    "id": 5,
+    "name": "RUS SALATASI",
+    "ingredient": "3 adet haşlanmış patates, 2 adet haşlanmış havuç, 100 g haşlanmış bezelye, 3 yemek kaşığı mayonez, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "140 kcal"
+      }
+    ],
+    "recipe": "Patates, havuç ve bezelyeyi küp şeklinde doğrayın. Mayonez ve tuz ekleyerek karıştırın.",
+    "image_url": "assets/baslangicler/salatalar/salatalar.img/RUS SALATASI.jpg"
+  },
+  {
+    "id": 6,
+    "name": "ŞAKŞUKA",
+    "ingredient": "2 adet patlıcan, 2 adet domates, 1 adet biber, 1 diş sarımsak, 2 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Patlıcanları kızartın. Domates, biber ve sarımsağı pişirip sos yapın. Sosu patlıcanların üzerine dökün.",
+    "image_url": "assets/baslangicler/salatalar/salatalar.img/ŞAKŞUKA.jpg"
+  }
+]

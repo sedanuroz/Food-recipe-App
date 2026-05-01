@@ -1,0 +1,253 @@
+[
+  {
+    "id": 1,
+    "name": "PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 3 su bardağı su, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Tereyağını eritin, yıkanmış pirinci kavurun. Üzerine su ve tuz ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/PİRİNÇ PİLAVI.jpg"
+
+  },
+  {
+    "id": 2,
+    "name": "BULGUR PİLAVI",
+    "ingredient": "2 su bardağı bulgur, 3 su bardağı su, 1 adet soğan, 2 yemek kaşığı zeytinyağı, 1 yemek kaşığı domates salçası, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "110 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında soğanı kavurun, salça ekleyin. Bulgur ve suyu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/BULGUR PİLAVI.jpg"
+
+  },
+  {
+    "id": 3,
+    "name": "ŞEHRİYELİ PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 1 su bardağı arpa şehriye, 3 su bardağı su, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "130 kcal"
+      }
+    ],
+    "recipe": "Tereyağında şehriyeyi kavurun, pirinci ekleyip karıştırın. Su ve tuzu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/ŞEHRİYELİ PİRİNÇ PİLAVI.jpg"
+  },
+  {
+    "id": 4,
+    "name": "ETLİ PİLAV",
+    "ingredient": "2 su bardağı pirinç, 200 g kuşbaşı et, 3 su bardağı et suyu, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "160 kcal"
+      }
+    ],
+    "recipe": "Eti kavurup pişirin. Tereyağında pirinci kavurun, et suyu ve eti ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/ETLİ PİLAV.jpg"
+
+  },
+  {
+    "id": 5,
+    "name": "NARLI BULGUR PİLAVI",
+    "ingredient": "2 su bardağı bulgur, 3 su bardağı su, 1 adet nar, 1 adet soğan, 2 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "115 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında soğanı kavurun. Bulgur ve suyu ekleyip pişirin. Üzerine nar taneleri ekleyerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/NARLI BULGUR PİLAVI.jpg"
+
+  },
+  {
+    "id": 6,
+    "name": "SAFRANLI PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 3 su bardağı su, 1 çay kaşığı safran, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "125 kcal"
+      }
+    ],
+    "recipe": "Tereyağında pirinci kavurun, safranlı sıcak suyu ve tuzu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/SAFRANLI PİRİNÇ PİLAVI.jpg"
+
+  },
+  {
+    "id": 7,
+    "name": "PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 3 su bardağı su, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Tereyağını eritin, yıkanmış pirinci kavurun. Üzerine su ve tuz ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/PİRİNÇ PİLAVI.jpg"
+
+  },
+  {
+    "id": 8,
+    "name": "BULGUR PİLAVI",
+    "ingredient": "2 su bardağı bulgur, 3 su bardağı su, 1 adet soğan, 2 yemek kaşığı zeytinyağı, 1 yemek kaşığı domates salçası, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "110 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında soğanı kavurun, salça ekleyin. Bulgur ve suyu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/BULGUR PİLAVI.jpg"
+
+  },
+  {
+    "id": 9,
+    "name": "ŞEHRİYELİ PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 1 su bardağı arpa şehriye, 3 su bardağı su, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "130 kcal"
+      }
+    ],
+    "recipe": "Tereyağında şehriyeyi kavurun, pirinci ekleyip karıştırın. Su ve tuzu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/ŞEHRİYELİ PİRİNÇ PİLAVI.jpg"
+
+  },
+  {
+    "id": 10,
+    "name": "ETLİ PİLAV",
+    "ingredient": "2 su bardağı pirinç, 200 g kuşbaşı et, 3 su bardağı et suyu, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "160 kcal"
+      }
+    ],
+    "recipe": "Eti kavurup pişirin. Tereyağında pirinci kavurun, et suyu ve eti ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/ETLİ PİLAV.jpg"
+
+  },
+  {
+    "id": 11,
+    "name": "NARLI BULGUR PİLAVI",
+    "ingredient": "2 su bardağı bulgur, 3 su bardağı su, 1 adet nar, 1 adet soğan, 2 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "115 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında soğanı kavurun. Bulgur ve suyu ekleyip pişirin. Üzerine nar taneleri ekleyerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/NARLI BULGUR PİLAVI.jpg"
+
+  },
+  {
+    "id": 12,
+    "name": "SAFRANLI PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 3 su bardağı su, 1 çay kaşığı safran, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "125 kcal"
+      }
+    ],
+    "recipe": "Tereyağında pirinci kavurun, safranlı sıcak suyu ve tuzu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/SAFRANLI PİRİNÇ PİLAVI.jpg"
+
+  },
+  {
+    "id": 13,
+    "name": "PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 3 su bardağı su, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "120 kcal"
+      }
+    ],
+    "recipe": "Tereyağını eritin, yıkanmış pirinci kavurun. Üzerine su ve tuz ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/PİRİNÇ PİLAVI.jpg"
+
+  },
+  {
+    "id": 14,
+    "name": "BULGUR PİLAVI",
+    "ingredient": "2 su bardağı bulgur, 3 su bardağı su, 1 adet soğan, 2 yemek kaşığı zeytinyağı, 1 yemek kaşığı domates salçası, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "110 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında soğanı kavurun, salça ekleyin. Bulgur ve suyu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/BULGUR PİLAVI.jpg"
+
+  },
+  {
+    "id": 15,
+    "name": "ŞEHRİYELİ PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 1 su bardağı arpa şehriye, 3 su bardağı su, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "130 kcal"
+      }
+    ],
+    "recipe": "Tereyağında şehriyeyi kavurun, pirinci ekleyip karıştırın. Su ve tuzu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/ŞEHRİYELİ PİRİNÇ PİLAVI.jpg"
+
+  },
+  {
+    "id": 16,
+    "name": "ETLİ PİLAV",
+    "ingredient": "2 su bardağı pirinç, 200 g kuşbaşı et, 3 su bardağı et suyu, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "160 kcal"
+      }
+    ],
+    "recipe": "Eti kavurup pişirin. Tereyağında pirinci kavurun, et suyu ve eti ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/ETLİ PİLAV.jpg"
+
+  },
+  {
+    "id": 17,
+    "name": "NARLI BULGUR PİLAVI",
+    "ingredient": "2 su bardağı bulgur, 3 su bardağı su, 1 adet nar, 1 adet soğan, 2 yemek kaşığı zeytinyağı, tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "115 kcal"
+      }
+    ],
+    "recipe": "Zeytinyağında soğanı kavurun. Bulgur ve suyu ekleyip pişirin. Üzerine nar taneleri ekleyerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/NARLI BULGUR PİLAVI.jpg"
+
+  },
+  {
+    "id": 18,
+    "name": "SAFRANLI PİRİNÇ PİLAVI",
+    "ingredient": "2 su bardağı pirinç, 3 su bardağı su, 1 çay kaşığı safran, 2 yemek kaşığı tereyağı, 1 çay kaşığı tuz.",
+    "calories": [
+      {
+        "portion": "100 gr",
+        "calorie": "125 kcal"
+      }
+    ],
+    "recipe": "Tereyağında pirinci kavurun, safranlı sıcak suyu ve tuzu ekleyip pişirin. Dinlendirerek servis edin.",
+    "image_url": "assets/yanlezzetler/pilavlar/pilavlar.img/SAFRANLI PİRİNÇ PİLAVI.jpg"
+
+  }
+]
