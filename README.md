@@ -70,7 +70,6 @@ Uygulama **15+** ekran içermekte olup tüm geçişler `MaterialPageRoute` ile s
 <img src="https://github.com/user-attachments/assets/a2895591-0416-440a-83e1-df9f8808d574" width="200" />
 <img src="https://github.com/user-attachments/assets/aa636fcc-3af9-452b-bcf6-fb03191294a3" width="200" />
 <img src="https://github.com/user-attachments/assets/5a9edf32-e55f-4661-863b-2a7c31cf1e51" width="200" />
-<img src="https://github.com/user-attachments/assets/1911d278-46bf-48ed-a2ad-a66fd8c16cc9" width="200" />
 <img src="https://github.com/user-attachments/assets/a467dfdc-c997-4b9a-b6e9-0db4ff49a55a" width="200" />
 <img src="https://github.com/user-attachments/assets/7eed0854-c164-4c69-b0bd-4ebf647d8dab" width="200" />
 
